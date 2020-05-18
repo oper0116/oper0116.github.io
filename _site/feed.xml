@@ -1,14 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-18T15:03:24+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DongHee’s Blog</title><subtitle>4001
-</subtitle><author><name>Your Name</name></author><entry><title type="html">Welcome</title><link href="http://localhost:4000/2018/07/01/welcome.html" rel="alternate" type="text/html" title="Welcome" /><published>2018-07-01T00:00:00+09:00</published><updated>2018-07-01T00:00:00+09:00</updated><id>http://localhost:4000/2018/07/01/welcome</id><content type="html" xml:base="http://localhost:4000/2018/07/01/welcome.html">&lt;p&gt;If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-18T15:31:50+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DongHee’s Blog</title><subtitle>4001
+</subtitle><author><name>Your Name</name></author><entry><title type="html">Github 블로그 만들기</title><link href="http://localhost:4000/2020/05/18/github-blog-1.html" rel="alternate" type="text/html" title="Github 블로그 만들기" /><published>2020-05-18T00:00:00+09:00</published><updated>2020-05-18T00:00:00+09:00</updated><id>http://localhost:4000/2020/05/18/github-blog-1</id><content type="html" xml:base="http://localhost:4000/2020/05/18/github-blog-1.html">&lt;p&gt;Github에서는 Github Repository를 이용하여 Static Website를 제공해주는 Github 
+  Pages 서비스를 제공하기 때문에,
+해당 서비스를 통하여 블로그를 구성할 수 있습니다. &lt;!--more--&gt; 
+해당 서비스를 통하여 블로그를 구성할 수 있습니다. &lt;!--more--&gt; 
+  이 글에서는 해당 서비스를 이용하여 블로그를 만들기 위한 방법을 소개합니다.&lt;/p&gt;
 
-&lt;p&gt;You may want to &lt;a href=&quot;https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration&quot;&gt;config the site&lt;/a&gt; or &lt;a href=&quot;https://tianqi.name/jekyll-TeXt-theme/docs/en/writing-posts&quot;&gt;writing a post&lt;/a&gt; next. Please feel free to &lt;a href=&quot;https://github.com/kitian616/jekyll-TeXt-theme/issues&quot;&gt;create an issue&lt;/a&gt; or &lt;a href=&quot;mailto:kitian616@outlook.com&quot;&gt;send me email&lt;/a&gt; if you have any questions.&lt;/p&gt;
+&lt;h1 id=&quot;github-repository-만들기&quot;&gt;Github Repository 만들기&lt;/h1&gt;
+&lt;h2 id=&quot;repository-만들기&quot;&gt;Repository 만들기&lt;/h2&gt;
 
-&lt;!--more--&gt;
+&lt;p&gt;Github 페이지 접속 후 Repository 생성페이지로 진입합니다.
+&lt;img src=&quot;/assets/images/github-blog/github-repository-new.png&quot; alt=&quot;github Repository 새페이지&quot; /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Repository name 항목에 &lt;code class=&quot;highlighter-rouge&quot;&gt;username.github.io&lt;/code&gt;와 같이 입력 후 &lt;code class=&quot;highlighter-rouge&quot;&gt;Public&lt;/code&gt;로 생성합니다.&lt;/p&gt;
 
-&lt;p&gt;If you like TeXt, don’t forget to give me a star. :star2:&lt;/p&gt;
+&lt;h2 id=&quot;생성되어진-repository-확인&quot;&gt;생성되어진 Repository 확인&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/github-blog/github-repository-initialize.png&quot; alt=&quot;github Repository 만들기&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/kitian616/jekyll-TeXt-theme/&quot;&gt;&lt;img src=&quot;https://img.shields.io/github/stars/kitian616/jekyll-TeXt-theme.svg?label=Stars&amp;amp;style=social&quot; alt=&quot;Star This Project&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><category term="TeXt" /><summary type="html">If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost: You may want to config the site or writing a post next. Please feel free to create an issue or send me email if you have any questions.</summary></entry><entry><title type="html">Post with Header Image</title><link href="http://localhost:4000/2018/06/01/header-image.html" rel="alternate" type="text/html" title="Post with Header Image" /><published>2018-06-01T00:00:00+09:00</published><updated>2018-06-01T00:00:00+09:00</updated><id>http://localhost:4000/2018/06/01/header-image</id><content type="html" xml:base="http://localhost:4000/2018/06/01/header-image.html">&lt;p&gt;A Post with Header Image, See &lt;a href=&quot;https://tianqi.name/jekyll-TeXt-theme/samples.html#page-layout&quot;&gt;Page layout&lt;/a&gt; for more examples.&lt;/p&gt;
+&lt;p&gt;최초 생성되어진 Repository에서 &lt;code class=&quot;highlighter-rouge&quot;&gt;creating a new file&lt;/code&gt;을 선택하여 index.html 파일을 생성합니다.&lt;/p&gt;
 
-&lt;!--more--&gt;</content><author><name>Your Name</name></author><category term="TeXt" /><summary type="html">A Post with Header Image, See Page layout for more examples.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/assets/images/github-blog/github-repository-create-index.png&quot; alt=&quot;index.html 파일 만들기&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;index.html 내용 작성 후 해당파일을 Commit 하고,
+잠시 후 등록하신 Repository의 도메인을 호출하시면 됩니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/github-blog/github-repository-call-index.png&quot; alt=&quot;URL 호출&quot; /&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;</content><author><name>Your Name</name></author><category term="github" /><category term="blog" /><category term="jekyll" /><summary type="html">Github에서는 Github Repository를 이용하여 Static Website를 제공해주는 Github Pages 서비스를 제공하기 때문에, 해당 서비스를 통하여 블로그를 구성할 수 있습니다.</summary></entry></feed>
