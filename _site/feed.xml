@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-18T15:45:13+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DongHee’s Blog</title><subtitle>4001
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-18T16:29:40+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DongHee’s Blog</title><subtitle>4001
 </subtitle><author><name>HanDongHee</name><email>oper0116@gmail.com</email></author><entry><title type="html">Github 블로그 만들기</title><link href="http://localhost:4000/2020/05/18/github-blog-1.html" rel="alternate" type="text/html" title="Github 블로그 만들기" /><published>2020-05-18T00:00:00+09:00</published><updated>2020-05-18T00:00:00+09:00</updated><id>http://localhost:4000/2020/05/18/github-blog-1</id><content type="html" xml:base="http://localhost:4000/2020/05/18/github-blog-1.html">&lt;p&gt;Github에서는 Github Repository를 이용하여 Static Website를 제공해주는 Github 
   Pages 서비스를 제공하기 때문에,
 해당 서비스를 통하여 블로그를 구성할 수 있습니다. &lt;!--more--&gt; 
-해당 서비스를 통하여 블로그를 구성할 수 있습니다. &lt;!--more--&gt; 
-  이 글에서는 해당 서비스를 이용하여 블로그를 만들기 위한 방법을 소개합니다.&lt;/p&gt;
+  이 글에서는 Github Pages 서비스와 Jekyll 이용하여 블로그를 만들기 위한 방법을 소개합니다.&lt;/p&gt;
 
 &lt;h1 id=&quot;github-repository-만들기&quot;&gt;Github Repository 만들기&lt;/h1&gt;
 &lt;h2 id=&quot;repository-만들기&quot;&gt;Repository 만들기&lt;/h2&gt;
@@ -25,4 +24,17 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/github-blog/github-repository-call-index.png&quot; alt=&quot;URL 호출&quot; /&gt;&lt;/p&gt;
 
-&lt;!--more--&gt;</content><author><name>HanDongHee</name><email>oper0116@gmail.com</email></author><category term="github" /><category term="blog" /><category term="jekyll" /><summary type="html">Github에서는 Github Repository를 이용하여 Static Website를 제공해주는 Github Pages 서비스를 제공하기 때문에, 해당 서비스를 통하여 블로그를 구성할 수 있습니다.</summary></entry></feed>
+&lt;h1 id=&quot;jekyll를-이용한-화면-구성&quot;&gt;Jekyll를 이용한 화면 구성&lt;/h1&gt;
+
+&lt;h2 id=&quot;jeklly-환경-설정-및-리소스&quot;&gt;Jeklly 환경 설정 및 리소스&lt;/h2&gt;
+&lt;p&gt;정적 웹사이트를 구성하기 위하여 &lt;a href=&quot;https://jekyllrb-ko.github.io/&quot;&gt;Jekyll&lt;/a&gt;를 이용하고자 합니다.
+Jekyll를 사용하기 위해서는 ruby 개발환경이 설정되어있어야 하며, 자세한 내용은 &lt;a href=&quot;https://jekyllrb-ko.github.io/docs/&quot;&gt;Documentation&lt;/a&gt;을 확인하면 됩니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/github-blog/github-repository-clone.png&quot; alt=&quot;URL 호출&quot; /&gt;
+원하시는 테마의 github에서 &lt;code class=&quot;highlighter-rouge&quot;&gt;Clone or Download&lt;/code&gt;를 선택해서 테마의 리소스 파일을 받아주시면 됩니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;자신의-repository로-리소스-파일-이동&quot;&gt;자신의 Repository로 리소스 파일 이동&lt;/h2&gt;
+&lt;p&gt;테마 리소스 파일을 자신의 Repository로 복사후 해당 내용은 Commit 및 Push 하시면 됩니다.&lt;/p&gt;
+
+&lt;h1 id=&quot;자료출처&quot;&gt;자료출처&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://jekyllrb-ko.github.io/&quot;&gt;Jekyll&lt;/a&gt;&lt;/p&gt;</content><author><name>HanDongHee</name><email>oper0116@gmail.com</email></author><category term="github" /><category term="blog" /><category term="jekyll" /><summary type="html">Github에서는 Github Repository를 이용하여 Static Website를 제공해주는 Github Pages 서비스를 제공하기 때문에, 해당 서비스를 통하여 블로그를 구성할 수 있습니다.</summary></entry></feed>
