@@ -5,8 +5,8 @@ tags: github blog jekyll
 
   Github에서는 Github Repository를 이용하여 Static Website를 제공해주는 Github 
   Pages 서비스를 제공하기 때문에,
-해당 서비스를 통하여 블로그를 구성할 수 있습니다. <!--more--> 
-  이 글에서는 Github Pages 서비스와 Jekyll 이용하여 블로그를 만들기 위한 방법을 소개합니다.
+해당 서비스를 통하여 블로그를 구성할 수 있습니다.
+  이 글에서는 Github Pages 서비스와 Jekyll 이용하여 블로그를 만들기 위한 방법을 소개합니다. <!--more--> 
 
 # Github Repository 만들기
 ## Repository 만들기
